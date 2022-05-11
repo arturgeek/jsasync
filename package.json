@@ -1,0 +1,20 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Learning async with JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/challenge/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Andres Morales",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
